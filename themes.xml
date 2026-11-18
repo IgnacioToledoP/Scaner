@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PSCodeScanner" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#003399</item>
+        <item name="colorPrimaryVariant">#001166</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00CCFF</item>
+        <item name="android:windowBackground">#0D0D1A</item>
+    </style>
+</resources>
